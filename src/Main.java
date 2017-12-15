@@ -1,3 +1,5 @@
+import library.ReadFile;
+
 import java.util.Scanner;
 
 public class Main
@@ -13,7 +15,7 @@ public class Main
     {
         System.out.println();
         System.out.print("Write the name of the file you want to read > ");
-        
+
         String input = this.Reader.nextLine();
         Reader.close();
 
@@ -26,6 +28,5 @@ public class Main
         main.menu();
     }
 }
-    ;  // Reading from System.in
 
 
