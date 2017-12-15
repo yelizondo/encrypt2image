@@ -21,7 +21,7 @@ public class ImageLoader
         {
             for (int i = 0; i < 26; i++)
             {
-                img = ImageIO.read(new File( ("" + i) + ".png"));
+                img = ImageIO.read(new File( "pics/" + ("" + i) + ".png"));
                 images.put(i,img);
             }
         }

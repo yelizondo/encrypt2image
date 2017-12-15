@@ -26,6 +26,9 @@ public class Main
     {
         Main main = new Main();
         main.menu();
+        //System.out.println( 'k' == 107);
+
+
     }
 }
 
