@@ -1,32 +1,35 @@
-import library.ReadFile;
+import library.FileManager;
+import program.StringConverter;
+import program.WordMessageBuilder;
 
 import java.util.Scanner;
 
 public class Main
 {
     private Scanner Reader;
+    private FileManager fileReader;
+    private WordMessageBuilder wordBuilder;
+    private StringConverter stringConverter;
 
     public Main()
     {
         Reader = new Scanner(System.in);
+        fileReader = new FileManager();
+        wordBuilder = new WordMessageBuilder();
+        stringConverter = new StringConverter();
     }
 
     private void menu()
     {
-        System.out.println();
-        System.out.print("Write the name of the file you want to read > ");
-
-        String input = this.Reader.nextLine();
-        Reader.close();
-
-        System.out.println(input);
+        String input = "INPUT/entry_file.txt";
+        wordBuilder.genHTML(stringConverter.getEncryptedMessage(fileReader.readFile(input)));
     }
 
     public static void main(String[] args)
     {
         Main main = new Main();
         main.menu();
-        //System.out.println( 'k' == 107);
+
 
 
     }
