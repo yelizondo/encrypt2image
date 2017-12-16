@@ -29,7 +29,6 @@ public class WordMessageBuilder
         for (Image img : pImage)
         {
             finalHtml += IMG_HTML_TEMPLATE.replaceAll("__#@#__", ABSOLUTE_PATH + img.getURL());
-            System.out.println(finalHtml);
         }
 
         manager.writeFile(RESULT_URL, finalHtml);

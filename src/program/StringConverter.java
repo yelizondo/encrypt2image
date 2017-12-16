@@ -22,7 +22,7 @@ public class StringConverter {
 
         pMessage = pMessage.toLowerCase();
 
-        for (int i = 0; i < pMessage.length(); i++)
+        for (int i = 0; i < pMessage.length()-1; i++)
         {
             char letter = pMessage.charAt(i);
 

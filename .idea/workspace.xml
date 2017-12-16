@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ad197f0-2fdc-4320-90b7-98a4d0a57cd2" name="Default" comment="" />
+    <list default="true" id="8ad197f0-2fdc-4320-90b7-98a4d0a57cd2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/INPUT/entry_file.txt" afterPath="$PROJECT_DIR$/INPUT/entry_file.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RESULTS/result.html" afterPath="$PROJECT_DIR$/RESULTS/result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/program/StringConverter.java" afterPath="$PROJECT_DIR$/src/program/StringConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/program/WordMessageBuilder.java" afterPath="$PROJECT_DIR$/src/program/WordMessageBuilder.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entry_file.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entry_file.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/INPUT/entry_file.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordMessageBuilder.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WordMessageBuilder.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/program/WordMessageBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+            <state relative-caret-position="306">
+              <caret line="30" column="95" lean-forward="false" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/RESULTS/result.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="2400" lean-forward="true" selection-start-line="0" selection-start-column="2400" selection-end-line="0" selection-end-column="2400" />
+              <caret line="0" column="246" lean-forward="false" selection-start-line="0" selection-start-column="246" selection-end-line="0" selection-end-column="246" />
               <folding />
             </state>
           </provider>
@@ -84,8 +89,8 @@
       <file leaf-file-name="StringConverter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/program/StringConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="38" column="58" lean-forward="false" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+            <state relative-caret-position="28">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,12 +138,12 @@
         <option value="$PROJECT_DIR$/src/library/WordProcessor.java" />
         <option value="$PROJECT_DIR$/src/library/Image.java" />
         <option value="$PROJECT_DIR$/src/library/FileManager.java" />
-        <option value="$PROJECT_DIR$/src/program/StringConverter.java" />
         <option value="$PROJECT_DIR$/RESULTS/result.html" />
         <option value="$PROJECT_DIR$/src/library/ImageLoader.java" />
-        <option value="$PROJECT_DIR$/src/program/WordMessageBuilder.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/INPUT/entry_file.txt" />
+        <option value="$PROJECT_DIR$/src/program/StringConverter.java" />
+        <option value="$PROJECT_DIR$/src/program/WordMessageBuilder.java" />
       </list>
     </option>
   </component>
@@ -295,12 +300,12 @@
       <option name="presentableId" value="Default" />
       <updated>1513371626891</updated>
       <workItem from="1513371633264" duration="11012000" />
-      <workItem from="1513384753655" duration="3316000" />
+      <workItem from="1513384753655" duration="3983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14328000" />
+    <option name="totallyTimeSpent" value="14995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -445,16 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/program/StringConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="38" column="58" lean-forward="false" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/library/ImageLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -465,20 +460,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/program/WordMessageBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="34" column="49" lean-forward="true" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RESULTS/result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="2400" lean-forward="true" selection-start-line="0" selection-start-column="2400" selection-end-line="0" selection-end-column="2400" />
+          <caret line="0" column="246" lean-forward="false" selection-start-line="0" selection-start-column="246" selection-end-line="0" selection-end-column="246" />
           <folding />
         </state>
       </provider>
@@ -496,8 +481,28 @@
     <entry file="file://$PROJECT_DIR$/INPUT/entry_file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="false" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/program/StringConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/program/WordMessageBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="95" lean-forward="false" selection-start-line="30" selection-start-column="95" selection-end-line="30" selection-end-column="95" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
